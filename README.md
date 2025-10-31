@@ -13,3 +13,6 @@ While PyTorch is becoming better at scaling, TensorFlow is generally considered 
 TensorFlow has a larger and more mature ecosystem with more tools and libraries for deployment and optimization. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+
+from torch.utils.data import Dataset, DataLoader
+Dataset is an abstract class used to define how to access your data
