@@ -11,3 +11,5 @@ PyTorch's dynamic nature and ease of use make it well-suited for prototyping and
 Weaknesses:
 While PyTorch is becoming better at scaling, TensorFlow is generally considered more scalable for large-scale deployments and production environments. 
 TensorFlow has a larger and more mature ecosystem with more tools and libraries for deployment and optimization. 
+
+----------------------------------------------------------------------------------------------------------------------------------------
