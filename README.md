@@ -14,5 +14,5 @@ TensorFlow has a larger and more mature ecosystem with more tools and libraries 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-from torch.utils.data import Dataset, DataLoader
+from torch.utils.data import Dataset, DataLoader <br>
 Dataset is an abstract class used to define how to access your data
